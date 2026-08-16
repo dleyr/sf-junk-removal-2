@@ -1,0 +1,10 @@
+{
+  "name": "sf-junk-removal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "S&F Junk Removal — static marketing website (no build step required).",
+  "scripts": {
+    "dev": "npx --yes serve . -l 5173",
+    "start": "npx --yes serve . -l 5173"
+  }
+}
